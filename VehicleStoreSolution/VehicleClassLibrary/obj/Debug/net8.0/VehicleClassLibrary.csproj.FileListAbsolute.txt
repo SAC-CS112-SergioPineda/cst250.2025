@@ -1,0 +1,11 @@
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\bin\Debug\net8.0\VehicleClassLibrary.deps.json
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\bin\Debug\net8.0\VehicleClassLibrary.dll
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\bin\Debug\net8.0\VehicleClassLibrary.pdb
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.AssemblyInfoInputs.cache
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.AssemblyInfo.cs
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.csproj.CoreCompileInputs.cache
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.dll
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\refint\VehicleClassLibrary.dll
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.pdb
+C:\non cloud desktop\VehicleStoreSolution\VehicleClassLibrary\obj\Debug\net8.0\ref\VehicleClassLibrary.dll
