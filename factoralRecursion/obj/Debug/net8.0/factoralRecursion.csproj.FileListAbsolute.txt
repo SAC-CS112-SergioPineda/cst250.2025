@@ -1,0 +1,14 @@
+C:\Users\Sergi\source\repos\factoralRecursion\bin\Debug\net8.0\factoralRecursion.exe
+C:\Users\Sergi\source\repos\factoralRecursion\bin\Debug\net8.0\factoralRecursion.deps.json
+C:\Users\Sergi\source\repos\factoralRecursion\bin\Debug\net8.0\factoralRecursion.runtimeconfig.json
+C:\Users\Sergi\source\repos\factoralRecursion\bin\Debug\net8.0\factoralRecursion.dll
+C:\Users\Sergi\source\repos\factoralRecursion\bin\Debug\net8.0\factoralRecursion.pdb
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.dll
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\refint\factoralRecursion.dll
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.pdb
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\factoralRecursion.genruntimeconfig.cache
+C:\Users\Sergi\source\repos\factoralRecursion\obj\Debug\net8.0\ref\factoralRecursion.dll
