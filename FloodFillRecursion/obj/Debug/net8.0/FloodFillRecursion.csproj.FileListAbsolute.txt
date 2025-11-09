@@ -1,0 +1,14 @@
+C:\Users\Sergi\source\repos\FloodFillRecursion\bin\Debug\net8.0\FloodFillRecursion.exe
+C:\Users\Sergi\source\repos\FloodFillRecursion\bin\Debug\net8.0\FloodFillRecursion.deps.json
+C:\Users\Sergi\source\repos\FloodFillRecursion\bin\Debug\net8.0\FloodFillRecursion.runtimeconfig.json
+C:\Users\Sergi\source\repos\FloodFillRecursion\bin\Debug\net8.0\FloodFillRecursion.dll
+C:\Users\Sergi\source\repos\FloodFillRecursion\bin\Debug\net8.0\FloodFillRecursion.pdb
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.dll
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\refint\FloodFillRecursion.dll
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.pdb
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\FloodFillRecursion.genruntimeconfig.cache
+C:\Users\Sergi\source\repos\FloodFillRecursion\obj\Debug\net8.0\ref\FloodFillRecursion.dll
