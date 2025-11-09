@@ -1,0 +1,14 @@
+C:\Users\Sergi\source\repos\GcdRecursion\bin\Debug\net8.0\GcdRecursion.exe
+C:\Users\Sergi\source\repos\GcdRecursion\bin\Debug\net8.0\GcdRecursion.deps.json
+C:\Users\Sergi\source\repos\GcdRecursion\bin\Debug\net8.0\GcdRecursion.runtimeconfig.json
+C:\Users\Sergi\source\repos\GcdRecursion\bin\Debug\net8.0\GcdRecursion.dll
+C:\Users\Sergi\source\repos\GcdRecursion\bin\Debug\net8.0\GcdRecursion.pdb
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.dll
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\refint\GcdRecursion.dll
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.pdb
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\GcdRecursion.genruntimeconfig.cache
+C:\Users\Sergi\source\repos\GcdRecursion\obj\Debug\net8.0\ref\GcdRecursion.dll

@@ -1,0 +1,14 @@
+C:\Users\Sergi\source\repos\CountToOneRecursion\bin\Debug\net8.0\CountToOneRecursion.exe
+C:\Users\Sergi\source\repos\CountToOneRecursion\bin\Debug\net8.0\CountToOneRecursion.deps.json
+C:\Users\Sergi\source\repos\CountToOneRecursion\bin\Debug\net8.0\CountToOneRecursion.runtimeconfig.json
+C:\Users\Sergi\source\repos\CountToOneRecursion\bin\Debug\net8.0\CountToOneRecursion.dll
+C:\Users\Sergi\source\repos\CountToOneRecursion\bin\Debug\net8.0\CountToOneRecursion.pdb
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.dll
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\refint\CountToOneRecursion.dll
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.pdb
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\CountToOneRecursion.genruntimeconfig.cache
+C:\Users\Sergi\source\repos\CountToOneRecursion\obj\Debug\net8.0\ref\CountToOneRecursion.dll
