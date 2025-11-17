@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Minesweeper.GUI/1.0.0": {
+        "dependencies": {
+          "Minesweeper.App": "1.0.0"
+        },
+        "runtime": {
+          "Minesweeper.GUI.dll": {}
+        }
+      },
+      "Minesweeper.App/1.0.0": {
+        "runtime": {
+          "Minesweeper.App.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minesweeper.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Minesweeper.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
